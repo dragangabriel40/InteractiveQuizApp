@@ -1,0 +1,52 @@
+{
+  "cultura-generala": {
+    "title": "Cultură Generală",
+    "questions": [
+      {
+        "question": "Care este capitala Franței?",
+        "options": ["Londra", "Paris", "Berlin", "Madrid"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Ce limbă se vorbește în Brazilia?",
+        "options": ["Spaniolă", "Portugheză", "Engleză", "Franceză"],
+        "answer": "Portugheză"
+      },
+      {
+        "question": "Când a început Al Doilea Război Mondial?",
+        "options": ["1939", "1941", "1945", "1935"],
+        "answer": "1939"
+      }
+    ]
+  },
+  "stiinta": {
+    "title": "Știință",
+    "questions": [
+      {
+        "question": "Care este formula apei?",
+        "options": ["H2O", "CO2", "O2", "H2"],
+        "answer": "H2O"
+      },
+      {
+        "question": "Ce planetă este cunoscută ca Planeta Roșie?",
+        "options": ["Venus", "Marte", "Jupiter", "Mercur"],
+        "answer": "Marte"
+      }
+    ]
+  },
+  "istorie": {
+    "title": "Istorie",
+    "questions": [
+      {
+        "question": "Cine a descoperit America?",
+        "options": ["Columbus", "Vasco da Gama", "Magellan", "Ferdinand Magellan"],
+        "answer": "Columbus"
+      },
+      {
+        "question": "În ce an a avut loc Revoluția Franceză?",
+        "options": ["1789", "1776", "1792", "1804"],
+        "answer": "1789"
+      }
+    ]
+  }
+}
